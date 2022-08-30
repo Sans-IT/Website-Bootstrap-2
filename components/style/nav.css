@@ -11,7 +11,7 @@
 
 /* Jumbotron */
 .jumbotron {
-    background:url(/components/img/img1.jpg);
+    background:url(../img/img1.jpg);
     background-size:cover;
     background-position:center;
     height: 540px;
